@@ -1,1 +1,1 @@
-new file作成（mainブランチ）
+new file変更（mainブランチ）（pull時のrebase使用）
